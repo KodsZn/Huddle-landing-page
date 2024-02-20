@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Click_here](huddle-landing-page-7fxpu5vbq-znaidis-projects.vercel.app)
+- Live Site URL: [Click_here](https://huddle-landing-page-55fhk2t1u-znaidis-projects.vercel.app)
 
 
 ### Built with
